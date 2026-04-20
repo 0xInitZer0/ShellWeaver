@@ -204,18 +204,7 @@ python run.py
 
 On first launch you will see the banner and the main prompt:
 
-```
-   ____  _          _ _       __
-  / ___|| |__   ___| | |     / /...
-  ...
-╭──────────────────────────────────────────────────────────────────╮
-│                                            v2.0.0  ·  CTF Web Shell Manager │
-╰──────────────────────────────────────────────────────────────────╯
-
-  ℹ  Type help for commands, add <url> <param> to open a shell.
-
-Weaver ›
-```
+![Main prompt menu](./shellweaver/img/mainprompt.png)
 
 ---
 
@@ -288,6 +277,8 @@ These work inside both the main prompt and any interactive session:
 | `Ctrl+D` | Same as `Ctrl+C` when on an empty line |
 
 ---
+
+![Tab auto-complete](./shellweaver/img/tabcompl.png)
 
 ## Web Shell Payload Reference
 
