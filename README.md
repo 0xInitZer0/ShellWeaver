@@ -1,11 +1,13 @@
 <div align="center">
 
 ```
-   ____  _          _ ___       __
-  / ___|| |__   ___| |/ \ \    / /__  __ ___   _____ _ __
-  \___ \| '_ \ / _ \ | |\ \ /\ / / _ \/ _` \ \ / / _ \ '__|
-   ___) | | | |  __/ | | \ V  V /  __/ (_| |\ V /  __/ |
-  |____/|_| |_|\___|_|_|  \_/\_/ \___|\__,_| \_/ \___|_|
+  _________.__           .__  .__  __      __                                 
+ /   _____/|  |__   ____ |  | |  |/  \    /  \ ____ _____ ___  __ ___________ 
+ \_____  \ |  |  \_/ __ \|  | |  |\   \/\/   // __ \\__  \\  \/ // __ \_  __ \
+ /        \|   Y  \  ___/|  |_|  |_\        /\  ___/ / __ \\   /\  ___/|  | \/
+/_______  /|___|  /\___  >____/____/\__/\  /  \___  >____  /\_/  \___  >__|   
+        \/      \/     \/                \/       \/     \/          \/       
+
 ```
 
 **The most convenient web shell manager built for CTF.**  
@@ -16,7 +18,7 @@ A fully interactive, colored pseudo-TTY CLI for PHP, ASP, JSP and any other web 
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-6366f1)](#installation)
 [![CTF](https://img.shields.io/badge/Purpose-CTF%20%2F%20Pentest-ef4444)](#disclaimer)
 
-![Main interface](./img/demonstration.png)
+![Main interface](./shellweaver/img/demonstration.png)
 
 </div>
 
