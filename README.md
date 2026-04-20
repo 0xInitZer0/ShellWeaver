@@ -123,6 +123,11 @@ Python dependencies (installed automatically):
 
 ## Installation
 
+```bash
+# 0. Clone repo
+git clone https://github.com/0xInitZer0/ShellWeaver.git
+```
+
 ### Linux and macOS
 
 ```bash
